@@ -32,3 +32,8 @@
 * Slack
 * Google Workspace
 
+---
+
+## 応募方法
+[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeXJAIsR_xrPZnGT6VW1wNNRThFlobedKCAiS22VupIZGm98w/viewform)からエントリーをお願いいたします
+
