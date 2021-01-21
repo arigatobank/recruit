@@ -3,7 +3,8 @@
 ## オープンポジション
 * [Androidエンジニア](./position/Android.md)
 * [iOSエンジニア](./position/iOS.md)
-* [Backendエンジニア](./position/Backend.md)
+* [認証基盤(Backend)エンジニア](./position/Auth.md)
+* [決済基盤(Backend)エンジニア](./position/PaymentBackend.md))
 * [SREエンジニア](./position/SRE.md)
 * [リスク対策エンジニア](./position/Monitoring.md)
 * [セキュリティエンジニア](./position/Security.md)
@@ -41,7 +42,6 @@
 
 ### 勤務地
 東京 (リモートワーク環境あり)
-*事業内容によっては異なる場合があります。
 
 ---
 
