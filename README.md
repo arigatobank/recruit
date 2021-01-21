@@ -1,5 +1,25 @@
 # ARIGATOBANK jobs for Engineers
 
+## 技術スタック
+### Programming Language
+    Native App           : Swift (iOS), Kotlin (Android)
+    Backend (Serverside) : golang, python
+### IaaS
+    GCP, AWS
+### Computing / Orchestration
+    GKE, AppEngine, Cloud Functions, Cloud Run
+### Database / Analysis
+    Cloud Spanner, Cloud SQL, BigQuery, S3
+### Middleware
+    Cloud Pub/Sub, Redis
+### API
+    API Gateway, Cloud Endpoints
+#### Network / LB / WAF
+    VPC, Cloud Load Balancing, Cloud Armor
+\*随時更新
+
+---
+
 ## オープンポジション
 * [Androidエンジニア](./position/Android.md)
 * [iOSエンジニア](./position/iOS.md)
