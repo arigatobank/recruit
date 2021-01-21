@@ -4,7 +4,7 @@
 * [Androidエンジニア](./position/Android.md)
 * [iOSエンジニア](./position/iOS.md)
 * [認証基盤(Backend)エンジニア](./position/Auth.md)
-* [決済基盤(Backend)エンジニア](./position/PaymentBackend.md))
+* [決済基盤(Backend)エンジニア](./position/PaymentBackend.md)
 * [SREエンジニア](./position/SRE.md)
 * [リスク対策エンジニア](./position/Monitoring.md)
 * [セキュリティエンジニア](./position/Security.md)
